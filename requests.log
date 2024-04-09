@@ -1,0 +1,6 @@
+2024-04-09 22:41:13,091 - INFO - Request: GET http://127.0.0.1:8000/get_time
+2024-04-09 22:41:13,092 - INFO - Response: 200
+2024-04-09 22:41:18,250 - INFO - Request: GET http://localhost:8000/check?name=Ivanich
+2024-04-09 22:41:18,251 - INFO - Response: 200
+2024-04-09 22:41:34,494 - INFO - Request: GET http://localhost:8000/check?name=John
+2024-04-09 22:41:34,496 - INFO - Response: 200
